@@ -1,7 +1,8 @@
 ### Hi there 👋, My name is Anastasia
 #### I am a Studen FullStack devolper
 ![I am a Studen FullStack devolper](https://i.postimg.cc/TYqPc6Kt/2025-06-29-221155.png)
-
+- 🌱 I’m currently learning Node.js 
+- 📫 How to reach me:  LinkedIn Anastasia Saienko 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -17,8 +18,6 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-- 🌱 I’m currently learning Node.js 
-- 📫 How to reach me:  LinkedIn Anastasia Saienko 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnastasiaSaienko634)  
