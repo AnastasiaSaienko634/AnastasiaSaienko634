@@ -25,6 +25,7 @@ To contact with me: anastasiasaienko634@gmail.com</p>
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
+[![Anastasia Saienko profile views](https://u8views.com/api/v1/github/profiles/196456583/views/day-week-month-total-count.svg)](https://u8views.com/github/AnastasiaSaienko634)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnastasiaSaienko634)](https://github.com/AnastasiaSaienko634/github-readme-activity-graph)
