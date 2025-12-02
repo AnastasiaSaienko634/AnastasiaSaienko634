@@ -7,7 +7,7 @@ I enjoy collaborating in a team environment and thrive on solving challenges tog
 </p>
 📫 Reach me on LinkedIn: Anastasia Saienko
 ## My Youtube Channel 🔗 
-![Мій банер](https://i.postimg.cc/zLJg5hVs/banner.png)
+![Мій банер](https://i.postimg.cc/GpDJFJrm/Snimok-ekrana-2025-12-02-160317.png)
 <div align="center">
   <a href="https://www.youtube.com/@%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%D1%88%D0%B0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
