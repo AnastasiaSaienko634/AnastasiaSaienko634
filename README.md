@@ -6,8 +6,8 @@
 I enjoy collaborating in a team environment and thrive on solving challenges together. I am passionate about web development, eager to learn new technologies, and motivated to grow in the tech industry. Friendly, open-minded, and ready to contribute to meaningful projects.
 </p>
 📫 Reach me on LinkedIn: Anastasia Saienko
-## My Youtube Channel 🔗 
-![Мій банер](https://i.postimg.cc/GpDJFJrm/Snimok-ekrana-2025-12-02-160317.png)
+
+##№ My Youtube Channel 🔗 
 <div align="center">
   <a href="https://www.youtube.com/@%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%D1%88%D0%B0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
