@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Anastasia
-#### I am a Junior Fullstack Developer with experience in frontend and backend development.
+#### I am a Junior Frontend Developer with experience in frontend and backend development.
 🌱 I’m currently deepening my knowledge in React and Next.js.
 <p align="left">💻 My skills include JavaScript, HTML5, CSS3, React, and Node.js.
 I enjoy collaborating in a team environment and thrive on solving challenges together. I am passionate about web development, eager to learn new technologies, and motivated to grow in the tech industry. Friendly, open-minded, and ready to contribute to meaningful projects.
