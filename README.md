@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Anastasia
-#### I am a Junior Fullstack Developer
-- 🌱 I’m currently learning React and Next.js
-- 📫 How to reach me:  LinkedIn Anastasia Saienko
-<p align="left">I am a student with a JavaScript, HTML5, and CSS3, React foundation. I enjoy collaborating in a team environment and thrive on solving challenges together. I am passionate about web development and eager to learn new technologies and improve my skills. Friendly, open-minded, and motivated to grow in the tech industry.
-
-To contact with me: anastasiasaienko634@gmail.com</p>
+#### I am a Junior Fullstack Developer with experience in frontend and backend development.
+🌱 I’m currently deepening my knowledge in React and Next.js.
+📫 Reach me on LinkedIn: Anastasia Saienko
+<p align="left">💻 My skills include JavaScript, HTML5, CSS3, React, and Node.js.
+I enjoy collaborating in a team environment and thrive on solving challenges together. I am passionate about web development, eager to learn new technologies, and motivated to grow in the tech industry. Friendly, open-minded, and ready to contribute to meaningful projects.
+</p>
 ###
 <div align="center">
   <a href="https://www.youtube.com/@%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%D1%88%D0%B0" target="_blank">
