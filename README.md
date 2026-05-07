@@ -2,7 +2,7 @@
 #### I am a Junior Front Developer with experience in frontend and backend development.
 ## 🚀 About Me
 🌱 I’m currently deepening my knowledge in React and Next.js.
-<p align="left">💻 My skills include JavaScript, HTML5, CSS3, React, and Node.js.
+<p align="left">💻 My skills include JavaScript, HTML5, CSS3, React, Next.js and Node.js.
 I enjoy collaborating in a team environment and thrive on solving challenges together. I am passionate about web development, eager to learn new technologies, and motivated to grow in the tech industry. Friendly, open-minded, and ready to contribute to meaningful projects.
 </p>
 📫 Reach me on LinkedIn: Anastasia Saienko
